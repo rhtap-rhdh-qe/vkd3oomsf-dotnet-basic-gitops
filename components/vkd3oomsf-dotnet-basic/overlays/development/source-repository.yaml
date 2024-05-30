@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vkd3oomsf-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vkd3oomsf-dotnet-basic
